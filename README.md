@@ -1,2 +1,2 @@
-# Test
-Repository created during class
+# Class
+Repository created for class
