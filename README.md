@@ -1,2 +1,2 @@
-# Class
-Repository created for class
+# Practice
+Repository created for practice
